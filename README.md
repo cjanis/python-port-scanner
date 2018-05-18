@@ -23,7 +23,7 @@ import portscanner
 Create an instance of the Target class:
 
 ```
-my_target = Target("example.com")
+my_target = portscanner.Target("example.com")
 ```
 
 Scan your target one or more times. All the settings shown below are optional, and the example code shows what the defaults would be if nothing is specified.
