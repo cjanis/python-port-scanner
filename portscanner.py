@@ -68,10 +68,3 @@ class Target():
 
 		else:
 			return self.reports[-1]
-
-
-
-ip = Target("example.com")
-ip.scan()
-ip.scan()
-print(ip.report(False))

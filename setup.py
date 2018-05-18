@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
  
 setup(name='port-scanner',
-      version='0.1',
+      version='0.1.4',
       url='http://github.com/cjanis/python-port-scanner',
       license='Unlicense',
       author='Craig Janis',
